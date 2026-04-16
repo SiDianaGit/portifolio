@@ -174,7 +174,7 @@ with col2:
 st.divider()
 
 # -----------------------------------------------------------------------------
-# 3. Experiência e Educação (Linha do Tempo)
+# 2. Experiência e Educação (Linha do Tempo)
 # -----------------------------------------------------------------------------
 st.subheader("Trajetória Profissional")
 
@@ -217,7 +217,7 @@ st.markdown("""
 st.markdown("---")
 
 # -----------------------------------------------------------------------------
-# 4. Tech Stack & Ferramentas
+# 3. Tech Stack & Ferramentas
 # -----------------------------------------------------------------------------
 st.subheader("Tech Stack")
 t_col1, t_col2, t_col3, t_col4 = st.columns(4)
@@ -235,7 +235,7 @@ st.markdown("---")
 
 
 # -----------------------------------------------------------------------------
-# 2. Vitrine de Projetos (Bento Grid Style)
+# 4. Vitrine de Projetos (Bento Grid Style)
 # -----------------------------------------------------------------------------
 
 # Criamos uma âncora HTML com ID fixo para o JavaScript encontrar
